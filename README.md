@@ -1,1 +1,1 @@
-" This is project involves creating a four-card feature section" 
+"This project involves creating a four-card feature section" 
